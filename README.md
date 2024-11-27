@@ -1,2 +1,2 @@
-# rtx-A2000-tensorflow-torch
-Configurando GPU RTX A2000 com tensorflow e Pytoch no Windows 11
+# Configurando GPU RTX A2000 com tensorflow e Pytoch no Windows 11
+
